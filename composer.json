@@ -1,0 +1,15 @@
+{
+    "name": "diego/poo",
+    "autoload": {
+        "psr-4": {
+            "Diego\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "XArcangelll",
+            "email": "Xx-Arcangel@hotmail.com"
+        }
+    ],
+    "require": {}
+}
